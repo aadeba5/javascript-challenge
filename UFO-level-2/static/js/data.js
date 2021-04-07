@@ -932,7 +932,7 @@ var data = [{
     country: "us",
     shape: "other",
     durationMinutes: "night",
-    comments: "((HOAX??))  a strange ball of fire&#44 like after burners."
+    comments: "((HOAX??)) a strange ball of fire&#44 like after burners."
   },
   {
     datetime: "1/12/2010",
